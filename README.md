@@ -33,6 +33,7 @@ Test suite is developed using Cypress and Cucumber BDD
 # Run tests
 * To run tests on chrome browser - *npm run test -- --browser=chrome*
 * To run tests on firefox browser - *npm run test -- --browser=firefox*
+* To run tests through Cypress UI : *npx cypress open* and click on each feature file to execute or run all features
 
 # Reports
 * Report will be generated under cypress/reports/mochareports
