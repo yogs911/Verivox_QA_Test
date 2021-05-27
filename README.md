@@ -1,5 +1,4 @@
 # Verivox_QA_Test
-Automation test suite
 
 #Pre-requisite
 *Node.js 12 or 14 and above must be installed*
